@@ -1,0 +1,35 @@
+# Cohorte Full Time 70 - Módulo 4 Especialidad Backend 💾
+
+## Apuntes de Clases
+
+- [Kick-Off](./readmes/00-Kick_Off/00-kick_off.md)
+- [01- Backend Architecture]()
+  - [Truty & Falsy]()
+  - [Parámetros & Argumentos]()
+  - [Parámetros Inteligentes]()
+- [02- NestJS Fundamentals I]()
+  - [Operador de Fusion Nula]()
+  - [Decoradores]()
+- [03- NestJS Fundamentals II]()
+  - [Custom Providers]()
+  - [Guía de Debug en NestJS]()
+- [04- NestJS Routing]()
+  - [Buenas Prácticas]()
+  - [Principios SOLID con ejemplos]()
+- [05- NestJS & TypeORM]()
+- [06- NestJS Pipes]()
+  - [Secuencia de Arranque de NestJS]()
+- [07- NestJS File Upload]()
+  - [Refactorización de Código]()
+- [08- Autenticación I]()
+- 09- Autenticación II
+  - [Autenticación II - Versión con String]()
+  - [Autenticación II - Versión con Array]()
+- 10- NestJS Testing
+  - [Ciclo de Vida del Software]()
+  - [Testing]()
+  - [Secuencia de inicio de una aplicación NestJS]()
+- [11- Open API / Documentation]()
+- [12- Docker]()
+  - [npkill - Elimninar "node_modules"]()
+- [Repaso]()
