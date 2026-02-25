@@ -4,7 +4,7 @@ const express = require("express");
 const PORT = process.env.PORT ? Number(process.env.PORT) : 3000;
 const HOST = process.env.HOST ? process.env.HOST : "localhost";
 
-const app = express(); //* { use: () => {...}, ... }
+const app = express(); //* app = { use: () => {}, get: () => {} }
 
 const personajes = [
   {
@@ -38,11 +38,7 @@ const personajes = [
 ];
 
 // Middleware simple de logger:
-app.use((req, res, next) => {
-  console.log(`${req.method} ${req.path} [${new Date().toISOString()}]`);
-  console.log(req);
-  next();
-});
+app.use();
 // Middleware para poder interpretar JSON por Body;
 app.use(express.json());
 
