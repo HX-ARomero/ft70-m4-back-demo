@@ -16,7 +16,7 @@
 - [04- NestJS Routing](./readmes/04-NestJS_Routing/04-nestjs_routing.md)
   - [Buenas Prácticas](./readmes/04-NestJS_Routing/buenas_practicas.md)
   - [Principios SOLID con ejemplos](./readmes/04-NestJS_Routing/solid.md)
-- [05- NestJS & TypeORM]()
+- [05- NestJS & TypeORM](./readmes/05-NestJS_TypeORM/NestJS-05.md)
 - [06- NestJS Pipes]()
   - [Secuencia de Arranque de NestJS]()
 - [07- NestJS File Upload]()
