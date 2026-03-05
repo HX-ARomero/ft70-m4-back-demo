@@ -21,7 +21,7 @@
   - [Secuencia de Arranque de NestJS](./readmes/06-NestJS_Pipes/NestJS-06-ArranqueNestJS.md)
 - [07- NestJS File Upload](./readmes/07-NestJS_File_Upload/NestJS-07.md)
   - [Refactorización de Código](./readmes/07-NestJS_File_Upload/NestJS-07-Refactor.md)
-- [08- Autenticación I]()
+- [08- Autenticación I](./readmes/08-NestJS_Auth_I/NestJS-08.md)
 - 09- Autenticación II
   - [Autenticación II - Versión con String]()
   - [Autenticación II - Versión con Array]()
