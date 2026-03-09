@@ -26,9 +26,9 @@
   - [Autenticación II - Versión con String](./readmes/09-NestJS_Auth_II/NestJS-09.md)
   - [Autenticación II - Versión con Array](./readmes/09-NestJS_Auth_II/NestJS-09-array.md)
 - 10- NestJS Testing
-  - [Ciclo de Vida del Software]()
-  - [Testing]()
-  - [Secuencia de inicio de una aplicación NestJS]()
+  - [Ciclo de Vida del Software](./readmes/10-NestJS_Testing/NestJS-10-Software.md)
+  - [Testing](./readmes/10-NestJS_Testing/NestJS-10-Testing.md)
+  - [Secuencia de inicio de una aplicación NestJS](./readmes/10-NestJS_Testing/NestJS-10-Arranque.md)
 - [11- Open API / Documentation]()
 - [12- Docker]()
   - [npkill - Elimninar "node_modules"]()
