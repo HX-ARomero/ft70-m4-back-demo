@@ -29,7 +29,7 @@
   - [Ciclo de Vida del Software](./readmes/10-NestJS_Testing/NestJS-10-Software.md)
   - [Testing](./readmes/10-NestJS_Testing/NestJS-10-Testing.md)
   - [Secuencia de inicio de una aplicación NestJS](./readmes/10-NestJS_Testing/NestJS-10-Arranque.md)
-- [11- Open API / Documentation]()
+- [11- Open API / Documentation](./readmes/11-NestJS_OpenAPI_Integration/NestJS-11.md)
 - [12- Docker]()
   - [npkill - Elimninar "node_modules"]()
 - [Repaso]()
