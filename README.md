@@ -1,5 +1,11 @@
 # Cohorte Full Time 70 - Módulo 4 Especialidad Backend 💾
 
+## Regalos de fin de Módulo
+
+- [Datos Curiosos de la Programación](./readmes/Regalos/DatosCuriosos.md)
+- [Recursos sobre Programación](./readmes/Regalos/Regalos.md)
+- [Simulacro de Checkpoint](./readmes/Regalos/SimulacroChoice.md)
+
 ## Apuntes de Clases
 
 - [Kick-Off](./readmes/00-Kick_Off/00-kick_off.md)
@@ -30,6 +36,6 @@
   - [Testing](./readmes/10-NestJS_Testing/NestJS-10-Testing.md)
   - [Secuencia de inicio de una aplicación NestJS](./readmes/10-NestJS_Testing/NestJS-10-Arranque.md)
 - [11- Open API / Documentation](./readmes/11-NestJS_OpenAPI_Integration/NestJS-11.md)
-- [12- Docker]()
-  - [npkill - Elimninar "node_modules"]()
-- [Repaso]()
+- [12- Docker](./readmes/12-Docker/NestJS-12-Docker.md)
+  - [npkill - Elimninar "node_modules"](./readmes/12-Docker/npkill.md)
+- [Repaso](./readmes/Repaso/Repaso.md)
